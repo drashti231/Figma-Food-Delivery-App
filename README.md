@@ -29,14 +29,14 @@ The design covers the complete user journey from discovering food to customizing
 ## 🎨 Design Preview
 
 <p align="center">
-  <img src="screenshots/01-onboarding.png" width="180"/>
-  <img src="screenshots/02-menu-home.png" width="180"/>
-  <img src="screenshots/03-product-details.png" width="180"/>
-  <img src="screenshots/04-cart.png" width="180"/>
+  <img src="01-onboarding.png" width="180"/>
+  <img src="02-menu-home.png" width="180"/>
+  <img src="/03-product-details.png" width="180"/>
+  <img src="04-cart.png" width="180"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/05-product-customization.png" width="180"/>
+  <img src="05-product-customization.png" width="180"/>
 </p>
 
 ---
