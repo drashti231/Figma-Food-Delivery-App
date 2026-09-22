@@ -137,8 +137,8 @@ Users can select:
 ## 🔗 Prototype
 
 <p align="center">
-  <a href="https://www.figma.com/proto/zCUdAieiiWdljKoYbulO09/Untitled?node-id=1-203&p=f&viewport=-82%2C206%2C0.36&t=7PKpd5s7jbx2j4E0-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1">
-    <img src="https://img.shields.io/badge/🎨%20Open%20Interactive%20Prototype-6C4FF5?style=for-the-badge" />
+  <a href="https://www.figma.com/proto/zCUdAieiiWdljKoYbulO09/Untitled?node-id=1-61&p=f&viewport=-82%2C206%2C0.36&t=7Jf7y5XHtNPsbL1r-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&utm_source=chatgpt.com">
+    <img src="https://img.shields.io/badge/🎨%20View%20Figma%20Prototype-6C4FF5?style=for-the-badge&logo=figma&logoColor=white" />
   </a>
 </p>
 
